@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: newsapi
+Version: 0.1.0
+Summary: A simple Python client for NewsAPI
+Home-page: http://github.com/yourusername/newsapi
+Author: Raju Gumpula
+Author-email: rajugumpula033@gmail.com
+License: MIT
+License-File: LICENSE
+
+# NewsAPI Python Package

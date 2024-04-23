@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+newsapi/__init__.py
+newsapi/client.py
+newsapi.egg-info/PKG-INFO
+newsapi.egg-info/SOURCES.txt
+newsapi.egg-info/dependency_links.txt
+newsapi.egg-info/requires.txt
+newsapi.egg-info/top_level.txt
+tests/__init__.py
+tests/test_client.py
